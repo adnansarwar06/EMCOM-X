@@ -1,0 +1,32 @@
+# Core RL & Environments
+rllib
+pettingzoo
+gymnasium
+pygame
+# Deep Learning
+torch
+
+# LLMs and Transformers
+transformers
+peft
+
+# Retrieval (RAG)
+sentence-transformers
+faiss-cpu
+
+# Logging & Utilities
+numpy
+pandas
+tqdm
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebooks (optional)
+notebook
+jupyter
+
+# Analysis
+scikit-learn
+scipy
